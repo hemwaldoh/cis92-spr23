@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'mysite',
         'USER': 'postgres',
         'PASSWORD': 'django',
-        'HOST': 'localhost',
+        'HOST': 'postgres',
     },
 }
 
